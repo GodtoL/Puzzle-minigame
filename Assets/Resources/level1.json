@@ -1,0 +1,30 @@
+{
+    "level": 1,
+    "ballsPosition": [
+        {
+            "x": 4.0,
+            "y": 4.0,
+            "z": 0.0
+        }
+    ],
+    "steps": 5,
+    "fencesPosition": [
+        {
+            "x": 3.0,
+            "y": 4.0,
+            "z": 0.0
+        }
+    ],
+    "player1Position": {
+        "x": 4.0,
+        "y": 6.0,
+        "z": 0.0
+    },
+    "goalsPosition": [
+        {
+            "x": 4.0,
+            "y": 1.0,
+            "z": 0.0
+        }
+    ]
+}
