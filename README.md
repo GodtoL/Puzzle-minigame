@@ -2,7 +2,7 @@
 
 Un juego de puzzle basado en cuadrícula donde el jugador debe empujar pelotas hacia las metas mientras administra sus movimientos de manera estratégica.
 
-![Gameplay](Assets/Puzzlemingame.gif)
+![Gameplay](Assets/puzzle-minigame-video.gif)
 
 ## 🎯 Características Principales
 
